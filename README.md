@@ -1,4 +1,4 @@
-#2048 Game
+2048 Game
 =============
 2048 is a popular puzzle game where the player slides numbered tiles on a grid to combine them and create a tile with the number 2048. 
 The game is played on a 4x4 grid with tiles that slide smoothly when a player moves them using the arrow keys.
@@ -9,7 +9,7 @@ Requirements
 * Java 8 or later
 * A computer with a keyboard and a display
 
-  How to Play
+How to Play
 -----------
 
 1. Use the arrow keys to move the tiles on the grid
